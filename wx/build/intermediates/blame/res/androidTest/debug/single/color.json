@@ -1,18 +1,10 @@
 [
     {
-        "merged": "D:\\ProgramFiles\\Demo\\demo1\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
-        "source": "D:\\ProgramFiles\\Demo\\demo1\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+        "merged": "D:\\ziyuanku\\demo1\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
+        "source": "D:\\ziyuanku\\demo1\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
     },
     {
-        "merged": "D:\\ProgramFiles\\Demo\\demo1\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_tab_text_color.xml",
-        "source": "D:\\ProgramFiles\\Demo\\demo1\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_tab_text_color.xml"
-    },
-    {
-        "merged": "D:\\ProgramFiles\\Demo\\demo2\\demo2\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_tab_text_color.xml",
-        "source": "D:\\ProgramFiles\\Demo\\demo2\\demo2\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_tab_text_color.xml"
-    },
-    {
-        "merged": "D:\\ProgramFiles\\Demo\\demo2\\demo2\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_at_msg_mark_all_read_text_color.xml",
-        "source": "D:\\ProgramFiles\\Demo\\demo2\\demo2\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_at_msg_mark_all_read_text_color.xml"
+        "merged": "D:\\ziyuanku\\demo1\\wx\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\aliwx_tab_text_color.xml",
+        "source": "D:\\ziyuanku\\demo1\\wx\\build\\intermediates\\bundles\\debug\\res\\color\\aliwx_tab_text_color.xml"
     }
 ]
