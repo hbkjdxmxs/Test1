@@ -34,6 +34,7 @@ public class MainActivity extends /*AppCompat*/Activity {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         System.out.println("你好 啊     啊啊 啊啊啊啊啊");
+        //wohenghao1
        /* ActionBar bar = getActionBar();
         bar.setDisplayShowCustomEnabled(true);
         bar.setCustomView(View.inflate(this,R.layout.action_bar,null));*/
