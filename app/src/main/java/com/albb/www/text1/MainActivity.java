@@ -63,7 +63,7 @@ public class MainActivity extends /*AppCompat*/Activity {
     IWxCallback() {
         @Override
         public void onSuccess (Object...arg0){
-            System.out.println("onSuccess@@@" + arg0[0].toString());
+            //System.out.println("onSuccess@@@" + arg0[0].toString());
             isLogin = true;
         }
 
@@ -92,14 +92,23 @@ public class MainActivity extends /*AppCompat*/Activity {
 
     public void login(View view) {
         inioLogin();
-        logining();
+        if (isLogin)
+            logining();
     }
 
     private void logining() {
-        if (isLogin) {
+         {
             Intent intent = mIMKit.getConversationActivityIntent();
             startActivity(intent);
             finish();
         }
+     /*   final String target =Utils.userid; //消息接收者ID
+        Intent intent = mIMKit.getChattingActivityIntent(target, Utils.APP_KEY);
+        startActivity(intent);*/
+
+
+        //当前界面一定消掉
+
+        finish();
     }
 }
