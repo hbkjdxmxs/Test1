@@ -9,6 +9,6 @@
     <string name="password">请输入密码</string>
     <string name="passwordDesc">密码</string>
     <string name="login">登录</string>
-    <string name="visitor">visitor</string>
+    <string name="visitor">visitor1</string>
     <string name="taobao1234">taobao1234</string>
 </resources>
